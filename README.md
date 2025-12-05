@@ -3,6 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:1E90FF&height=220&text=Selma%20Hadj%20Khelifa&fontAlign=50&fontAlignY=40&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Full-stack%20Developer&descAlignY=60&descAlign=50" />
 </p>
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=selmahk8&color=blue" alt="Profile Views"/>
+</p>
+
+
 # 👋 Hi, I'm Selma
 
 **Full-Stack Developer | React & Next.js Enthusiast | PHP & MySQL**
@@ -57,6 +63,7 @@
 > *“Small progress each day adds up to big results.”*
 
 ---
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=1E90FF&height=120&section=footer" />
